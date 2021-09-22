@@ -22,7 +22,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:csgaee@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/csgaee/"}
-  - {title: Subscribe, icon: twitter, url: "https://twitter.com/csgaee"}
+  - {title: twitter, icon: twitter, url: "https://twitter.com/csgaee"}
+  - {title: linkedin, icon: linkedin, url: "https://www.linkedin.com/in/csgaee/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
