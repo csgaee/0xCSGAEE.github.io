@@ -7,4 +7,7 @@ Because of the non-technical background of just studying cyber security and poli
 
 and you can see my CV from  [here](https://drive.google.com/file/d/1xYJUxQ8GazNo-mOTmvzPqu-xNKDiU92K/view) :D
 
-
+contact me at :- 
+  -  Mail : csgaee@gmail.com
+  -  twitter : (@csgaee)[https://twitter.com/csgaee]
+  -  linkedin : (ahmed elsayed. CSGAEE)[https://www.linkedin.com/in/csgaee/]
