@@ -9,5 +9,5 @@ and you can see my CV from  [here](https://drive.google.com/file/d/1xYJUxQ8GazNo
 
 contact me at :- 
   -  Mail : csgaee@gmail.com
-  -  twitter : (@csgaee)[https://twitter.com/csgaee]
-  -  linkedin : (ahmed elsayed. CSGAEE)[https://www.linkedin.com/in/csgaee/]
+  -  twitter : [@csgaee](https://twitter.com/csgaee)
+  -  linkedin : [ahmed elsayed. CSGAEE](https://www.linkedin.com/in/csgaee/)
